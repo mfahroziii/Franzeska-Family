@@ -1,9 +1,9 @@
 {
     "selectedColor": "#FCD376",
-    "backgroundImage": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/licenseplate.png",
+    "backgroundImage": "https://r2.fivemanage.com/cLifrHo3rrK6X79wCV8wp/image.png",
     "backgroundVideo": "",
     "watermark": { 
-        "label": { "text": "The Vibe RP", "colorWordCount": 2 }, 
+        "label": { "text": "Franzeska Family", "colorWordCount": 2 }, 
         "subHeading": "Loading Screen", 
         "logo": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/Vibe-Logo-modified(1).png" 
     },
@@ -80,20 +80,9 @@
         "Do not spam the chat\nor use slurs or hate speech."
     ],
     "teamMembers": [
-        { "name": "GucciFlipFlops", "role": "Head Developer", "discord": "pakinextdoor", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/fakalheadshot.png" },
-        { "name": "HerGTR", "role": "Founding Member", "discord": "dwboutit", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/gatorheadshot.png" },
-        { "name": "Mitch", "role": "Founding Member", "discord": "builtlikemitch", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/mitchheadshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "GucciFlipFlops", "role": "Head Developer", "discord": "pakinextdoor", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/fakalheadshot.png" },
-        { "name": "HerGTR", "role": "Founding Member", "discord": "dwboutit", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/gatorheadshot.png" },
-        { "name": "Mitch", "role": "Founding Member", "discord": "builtlikemitch", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/mitchheadshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" },
-        { "name": "Haz", "role": "Founding Member", "discord": "spooky1001", "image": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/headshot.png" }
+        { "name": "Eren A Franzeska", "role": "Head Developer", "discord": "eerenlucius", "image": "https://r2.fivemanage.com/cLifrHo3rrK6X79wCV8wp/Eren.PNG" },
+        { "name": "Aruna V Franzeska", "role": "Founding Member", "discord": "cupelcipel", "image": "https://r2.fivemanage.com/cLifrHo3rrK6X79wCV8wp/Aruna.PNG" }
+
     ],
     "gallery": [
         { "path": "https://r2.fivemanage.com/RbWsMGdZTi3Ptu8LbeSp9/fivemsupranrcisist.jpg"},
