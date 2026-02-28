@@ -116,6 +116,36 @@ return {
         }
     },
 
+    ['low_speaker'] = {
+        label = 'Low Speaker',
+        weight = 200,
+        stack = true,
+        close = true,
+        client = {
+            export = 'mt_speakers.useSpeaker'
+        }
+    },
+
+    ['medium_speaker'] = {
+        label = 'Medium Speaker',
+        weight = 200,
+        stack = true,
+        close = true,
+        client = {
+            export = 'mt_speakers.useSpeaker'
+        }
+    },
+
+    ['high_speaker'] = {
+        label = 'Party Speaker',
+        weight = 200,
+        stack = true,
+        close = true,
+        client = {
+            export = 'mt_speakers.useSpeaker'
+        }
+    },
+
     ['lockpick'] = {
         label = 'Lockpick',
         weight = 160,
