@@ -333,81 +333,81 @@ return {
         --     }
         -- },
 
-        boats = {
-            type = 'free-use',
-            zone = {
-                shape = {
-                    vec3(-729.39, -1315.84, 0),
-                    vec3(-766.81, -1360.11, 0),
-                    vec3(-754.21, -1371.49, 0),
-                    vec3(-716.94, -1326.88, 0)
-                },
-                size = vec3(8, 8, 6),
-                targetDistance = 10,
-            },
-            blip = {
-                label = 'Marina Shop',
-                coords = vec3(-738.25, -1334.38, 1.6),
-                show = true,
-                sprite = 410,
-                color = 3,
-            },
-            categories = {
-                boats = 'Boats'
-            },
-            testDrive = {
-                limit = 5.0,
-                endBehavior = 'return'
-            },
-            returnLocation = vec3(-714.34, -1343.31, 0.0),
-            vehicleSpawns = {
-                vec4(-727.87, -1353.1, -0.17, 137.09),
-            },
-            showroomVehicles = {
-                { coords = vec4(-727.05, -1326.59, -0.50, 229.5), vehicle = 'seashark' },
-                { coords = vec4(-732.84, -1333.5, -0.50, 229.5), vehicle = 'dinghy' },
-                { coords = vec4(-737.84, -1340.83, -0.50, 229.5), vehicle = 'speeder' },
-                { coords = vec4(-741.53, -1349.7, -0.50, 229.5), vehicle = 'marquis' },
-            },
-        },
+        -- boats = {
+        --     type = 'free-use',
+        --     zone = {
+        --         shape = {
+        --             vec3(-729.39, -1315.84, 0),
+        --             vec3(-766.81, -1360.11, 0),
+        --             vec3(-754.21, -1371.49, 0),
+        --             vec3(-716.94, -1326.88, 0)
+        --         },
+        --         size = vec3(8, 8, 6),
+        --         targetDistance = 10,
+        --     },
+        --     blip = {
+        --         label = 'Marina Shop',
+        --         coords = vec3(-738.25, -1334.38, 1.6),
+        --         show = true,
+        --         sprite = 410,
+        --         color = 3,
+        --     },
+        --     categories = {
+        --         boats = 'Boats'
+        --     },
+        --     testDrive = {
+        --         limit = 5.0,
+        --         endBehavior = 'return'
+        --     },
+        --     returnLocation = vec3(-714.34, -1343.31, 0.0),
+        --     vehicleSpawns = {
+        --         vec4(-727.87, -1353.1, -0.17, 137.09),
+        --     },
+        --     showroomVehicles = {
+        --         { coords = vec4(-727.05, -1326.59, -0.50, 229.5), vehicle = 'seashark' },
+        --         { coords = vec4(-732.84, -1333.5, -0.50, 229.5), vehicle = 'dinghy' },
+        --         { coords = vec4(-737.84, -1340.83, -0.50, 229.5), vehicle = 'speeder' },
+        --         { coords = vec4(-741.53, -1349.7, -0.50, 229.5), vehicle = 'marquis' },
+        --     },
+        -- },
 
-        air = {
-            type = 'free-use',
-            zone = {
-                shape = {
-                    vec3(-1607.58, -3141.7, 12.99),
-                    vec3(-1672.54, -3103.87, 12.99),
-                    vec3(-1703.49, -3158.02, 12.99),
-                    vec3(-1646.03, -3190.84, 12.99)
-                },
-                size = vec3(10, 10, 8),
-                targetDistance = 5,
-            },
-            blip = {
-                label = 'Air Shop',
-                coords = vec3(-1652.76, -3143.4, 13.99),
-                show = true,
-                sprite = 251,
-                color = 3,
-            },
-            categories = {
-                helicopters = 'Helicopters',
-                planes = 'Planes'
-            },
-            testDrive = {
-                limit = 5.0,
-                endBehavior = 'return'
-            },
-            returnLocation = vec3(-1628.44, -3104.7, 13.94),
-            vehicleSpawns = {
-                vec4(-1617.49, -3086.17, 13.94, 329.2),
-            },
-            showroomVehicles = {
-                { coords = vec4(-1651.36, -3162.66, 12.99, 346.89), vehicle = 'volatus' },
-                { coords = vec4(-1668.53, -3152.56, 12.99, 303.22), vehicle = 'luxor2' },
-                { coords = vec4(-1632.02, -3144.48, 12.99, 31.08), vehicle = 'nimbus' },
-                { coords = vec4(-1663.74, -3126.32, 12.99, 275.03), vehicle = 'frogger' },
-            },
-        },
+        -- air = {
+        --     type = 'free-use',
+        --     zone = {
+        --         shape = {
+        --             vec3(-1607.58, -3141.7, 12.99),
+        --             vec3(-1672.54, -3103.87, 12.99),
+        --             vec3(-1703.49, -3158.02, 12.99),
+        --             vec3(-1646.03, -3190.84, 12.99)
+        --         },
+        --         size = vec3(10, 10, 8),
+        --         targetDistance = 5,
+        --     },
+        --     blip = {
+        --         label = 'Air Shop',
+        --         coords = vec3(-1652.76, -3143.4, 13.99),
+        --         show = true,
+        --         sprite = 251,
+        --         color = 3,
+        --     },
+        --     categories = {
+        --         helicopters = 'Helicopters',
+        --         planes = 'Planes'
+        --     },
+        --     testDrive = {
+        --         limit = 5.0,
+        --         endBehavior = 'return'
+        --     },
+        --     returnLocation = vec3(-1628.44, -3104.7, 13.94),
+        --     vehicleSpawns = {
+        --         vec4(-1617.49, -3086.17, 13.94, 329.2),
+        --     },
+        --     showroomVehicles = {
+        --         { coords = vec4(-1651.36, -3162.66, 12.99, 346.89), vehicle = 'volatus' },
+        --         { coords = vec4(-1668.53, -3152.56, 12.99, 303.22), vehicle = 'luxor2' },
+        --         { coords = vec4(-1632.02, -3144.48, 12.99, 31.08), vehicle = 'nimbus' },
+        --         { coords = vec4(-1663.74, -3126.32, 12.99, 275.03), vehicle = 'frogger' },
+        --     },
+        -- },
     },
 }
